@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Análisis de Transferencias de Fútbol 2010-2026
 
 ## Descripción del Proyecto
@@ -38,4 +39,6 @@ Este proyecto demuestra habilidades críticas para el sector financiero:
 
 ## Autor
 Anthony - [GitHub](https://github.com/Apuentecaa)
+
+
 
