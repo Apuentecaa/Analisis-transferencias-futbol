@@ -1,34 +1,41 @@
-# ? Analisis de Transferencias de Futbol 2010-2026 
- 
-## ?? Descripcion del Proyecto 
-Proyecto de analisis de datos del mercado de transferencias de futbol utilizando SQL Server. 
- 
-## ?? Aplicacion en el Sector Financiero 
-- Analisis de inversion y retorno (ROI) 
-- Evaluacion de riesgos financieros 
-- Analisis de deuda y rentabilidad 
- 
-## ?? Estructura del Proyecto 
-``` 
-ANALISIS TRANSFERENCIAS FUTBOL/ 
-ÃÄÄ .gitignore 
-ÃÄÄ README.md 
-ÃÄÄ requirements.txt 
-ÃÄÄ data/               # Datos CSV de Kaggle 
-³   ÀÄÄ raw/            # Datos originales 
-ÃÄÄ docs/               # Documentacion y diagramas 
-ÀÄÄ sql/                # Scripts SQL 
-    ÃÄÄ scripts/        # Creacion de tablas y carga 
-    ÃÄÄ queries/        # 10 preguntas de analisis 
-    ÀÄÄ results/        # Resultados de las queries 
-``` 
- 
-## ?? Como Ejecutar 
-1. Crear la base de datos en SQL Server 
-2. Ejecutar scripts en orden 
-3. Ver resultados 
- 
-## ?? Tecnologias Usadas 
-- SQL Server 
-- SSMS 
-- Git & GitHub 
+# AnÃ¡lisis de Transferencias de FÃºtbol 2010-2026
+
+## DescripciÃ³n del Proyecto
+Proyecto de anÃ¡lisis de datos del mercado de transferencias de fÃºtbol utilizando **SQL Server**. El objetivo es explorar la relaciÃ³n entre el poder financiero de los clubes y su rendimiento deportivo.
+
+## AplicaciÃ³n en el Sector Financiero
+Este proyecto demuestra habilidades crÃ­ticas para el sector financiero:
+- AnÃ¡lisis de inversiÃ³n y retorno (ROI)
+- EvaluaciÃ³n de riesgos financieros
+- AnÃ¡lisis de deuda y rentabilidad
+- Modelado de datos relacionales
+
+## Estructura del Proyecto
+    ANALISIS TRANSFERENCIAS FUTBOL/
+    â”œâ”€â”€ .gitignore
+    â”œâ”€â”€ README.md
+    â”œâ”€â”€ requirements.txt
+    â”œâ”€â”€ data/
+    â”‚ â”œâ”€â”€ raw/ # Datos CSV de Kaggle
+    â”‚ â””â”€â”€ processed/ # Datos procesados
+    â”œâ”€â”€ docs/
+    â”‚ â””â”€â”€ diagrams/ # Diagramas y documentaciÃ³n
+    â””â”€â”€ sql/
+    â”œâ”€â”€ scripts/ # CreaciÃ³n de tablas y carga
+    â”œâ”€â”€ queries/ # 10 preguntas de anÃ¡lisis
+    â””â”€â”€ results/ # Resultados de las queries
+    
+
+## CÃ³mo Ejecutar
+1. Crear la base de datos en SQL Server
+2. Ejecutar scripts en orden
+3. Ver resultados
+
+## TecnologÃ­as Usadas
+- SQL Server
+- SSMS (SQL Server Management Studio)
+- Git & GitHub
+
+## Autor
+Anthony - [GitHub](https://github.com/Apuentecaa)
+
