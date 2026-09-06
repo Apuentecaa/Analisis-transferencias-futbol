@@ -18,7 +18,7 @@ ANALISIS TRANSFERENCIAS FUTBOL/
 ├── .gitignore
 ├── README.md
 ├── data/
-│ ├── raw/ # Datos CSV de Kaggle
+│ ├── raw/ Datos CSV de Kaggle
 │ └── processed/ Datos procesados
 ├── docs/
 │ └── diagrams/ Diagrama ER y documentación
