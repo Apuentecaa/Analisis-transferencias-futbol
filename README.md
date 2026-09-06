@@ -1,6 +1,6 @@
 # Analisis de Transferencias de Futbol 2010-2026 
  
-## ?? Descripcion del Proyecto 
+## Descripcion del Proyecto 
 Proyecto de analisis de datos del mercado de transferencias de futbol utilizando SQL Server. 
  
 ## Aplicacion en el Sector Financiero 
